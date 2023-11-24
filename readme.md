@@ -29,3 +29,11 @@ Cartella: array_bonus
 Crea due array che hanno un numero di elementi diversi.
 Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
 
+<!-- 1) SOTTOPROBLEMI TUTTIFRUTTI-->
+
+1) Creo un array con l'elenco della frutta presente nel frigorifero;
+2) aggiungo l'elemento pesca all'array creata precedentemente;
+3) creo una variabile flag con valore false che mi servirà dopo per controllare se 'cocomero' è presente nell'array;
+4) creo un ciclo For e controllo se il frutto 'cocomero' è presente nell'array;
+4.1) se è presente, stampo in console: "Trovato! Devo solo preparare il cocktail.";
+4.2) altrimenti stampo in console: "Oh no, devo uscire a comprare il cocomero!"
