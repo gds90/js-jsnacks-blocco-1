@@ -37,3 +37,10 @@ Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti 
 4) creo un ciclo For e controllo se il frutto 'cocomero' è presente nell'array;
 4.1) se è presente, stampo in console: "Trovato! Devo solo preparare il cocktail.";
 4.2) altrimenti stampo in console: "Oh no, devo uscire a comprare il cocomero!"
+
+<!-- 2) SOTTOPROBLEMI CODA DELL'ARRAY -->
+1) Permetto all'utente di inserire tramite prompt un numero, che rappresenterà la lunghezza dell'array;
+2) In base al numero inserito dall'utente, creo un array di quella lunghezza tramite ciclo For; 
+2.1) per ogni ciclata, inserisco un numero random da 1 a 100 nell'array.
+3) stampo in console gli ultimi 5 elementi dell'array;
+4) Bonus: chiediamo all'utente quanti elementi dell'array dovremo stampare
