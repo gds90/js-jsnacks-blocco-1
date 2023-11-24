@@ -12,7 +12,7 @@ let array_2 = [33, 12, 9, 46, 88, 53, 68];
 let array_1 = [82, 71, 16];
 
 // 2) Dichiaro una variabile il cui valore sarà la differenza tra le lunghezze delle due array;
-diff = array_1.length - array_2.length;
+let diff = array_1.length - array_2.length;
 
 // 3) verifico che la differenza tra le due stringhe non sia negativa;
 if (diff < 0){
